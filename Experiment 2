@@ -11,7 +11,7 @@ return 1;
 }
 int main() {
 int n;
-printf("REG NO:25331A05F7\n");
+printf("REG NO:25331A05c7\n");
 printf("enter the n :");
 scanf("%d", &n);
 if(isPrime(n))
