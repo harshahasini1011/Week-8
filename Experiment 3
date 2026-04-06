@@ -7,7 +7,7 @@ return sum;
 }
 int main() {
 int a[5], i;
-printf("REG NO: 25331A05F7\n");
+printf("REG NO: 25331A05c7\n");
 printf("enter the elements:");
 for(i = 0; i < 5; i++)
 scanf("%d", &a[i]);
